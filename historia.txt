@@ -1,3 +1,3 @@
 ﻿Nelson Urbaneja
 Edad 24 años
-Desarrollador Web
+Desarrollador Web - React Next.js
