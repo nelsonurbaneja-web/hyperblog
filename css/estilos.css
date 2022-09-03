@@ -22,6 +22,16 @@ header {
   gap: 1rem;
 }
 
+footer {
+  width: 100%;
+  background-color: steelblue;
+  padding: 1rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+}
+
 header img {
   width: 100px;
   height: 100px;
