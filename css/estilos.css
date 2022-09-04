@@ -20,16 +20,19 @@ header {
   justify-content: flex-start;
   align-items: center;
   gap: 1rem;
+  
 }
 
 footer {
   width: 100%;
   background-color: steelblue;
-  padding: 1rem;
+  padding: 2rem;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   gap: 1rem;
+  text-align: center;
+  color: white;
 }
 
 header img {
